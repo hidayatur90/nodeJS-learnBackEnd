@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "belajar testing jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "hida",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
